@@ -1,0 +1,14 @@
+{
+  "nickname": "dfjp-discord",
+  "server": "chat.freenode.net",
+  "channelMapping": {
+    "#irc": "#dwarffortress-jp"
+  },
+  "ircOptions": {
+    "userName": "dfjp-discord",
+    "realName": "DFJP discord sync bot",
+    "port": 7000,
+    "secure": true
+  }
+}
+

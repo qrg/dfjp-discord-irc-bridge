@@ -1,0 +1,14 @@
+{
+  "name": "dfjp-discord-irc-bridge",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qrg",
+  "license": "MIT",
+  "dependencies": {
+    "discord-irc": "^2.1.5"
+  }
+}
