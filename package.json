@@ -11,5 +11,9 @@
   "license": "MIT",
   "dependencies": {
     "discord-irc": "^2.1.5"
+  },
+  "engines": {
+    "node": "7.1.0"
   }
 }
+
